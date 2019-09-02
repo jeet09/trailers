@@ -1,0 +1,13 @@
+.trailer-section {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+
+.filters {
+    display: flex;
+    margin-left: auto;
+    margin-right: 7%;
+}
+
